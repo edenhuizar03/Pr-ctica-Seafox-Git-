@@ -7,5 +7,6 @@ print("Suma:", numero1 + numero2)
 
 print("PanfiDivision:", numero1 + numero2)
 
+print("el último mes es "+ numero1*numero2)
 variablepatitodejuan = hola tal cual
 print(variablepatitodejuan)
